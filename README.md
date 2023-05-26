@@ -1,2 +1,2 @@
 # transformers-playground
-Playground for testing my DIY NLP Transformers
+Playground for testing my DIY Transformers models
